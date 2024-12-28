@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Royal Enfield",
+        "type": "Motor Bike",
+        "price": "350000",
+        "image": "https:\/\/kickstart.bikeexif.com\/wp-content\/uploads\/2024\/08\/royal-enfield-650-stg-tracker.jpg"
+    },
+    {
+        "name": "Toyota Kluger",
+        "type": "SUV Cross",
+        "price": "12000000",
+        "image": "https:\/\/www.canberratimes.com.au\/images\/transform\/v1\/crop\/frm\/silverstone-feed-data\/317fefcd-a0e1-468a-b4b2-4fee6e3ff6ba.jpg\/r0_0_800_533_w800_h533_fmax.jpg"
+    }
+]
