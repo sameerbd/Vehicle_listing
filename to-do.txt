@@ -44,4 +44,4 @@ Extend the VehicleBase class.
 Implement the VehicleActions interface.
 
 
-* For Frontend Design according to the Project Live Class Instructions.
+* Frontend Design according to the Project Live Class Instructions.
